@@ -1,5 +1,8 @@
 # Instructions
 
+deprecated
+
+
 Welcome to Ramp's frontend interview challenge.
 
 In this challenge, you will need to fix certain bugs within the starter code provided to you.
